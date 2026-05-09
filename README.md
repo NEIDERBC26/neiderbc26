@@ -169,7 +169,7 @@ Diseño, implementación y mantenimiento de redes virtuales, VPN y servicios de 
 ## 📫 Conecta Conmigo
 
 <div align="center">
-  <a href="mailto:neider.basilio.2023@outlook.es">
+  <a href="mailto:neider.dev@nmatech.org">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://linkedin.com/in/tu-perfil">
